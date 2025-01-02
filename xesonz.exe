@@ -1,3 +1,2 @@
-local Pl = game.PlaceId
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ilovexenon/script/refs/heads/main/jujutsuinf.exe"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ilovexenon/github/refs/heads/main/allmap.exe"))()
